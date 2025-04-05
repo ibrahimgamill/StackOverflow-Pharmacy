@@ -273,10 +273,11 @@ npm start
 
 # Credits
 
-This project is delivered by a group of 2 Engineering students at the German University in Cairo:
+This project is delivered by a group of 3 Engineering students at the German University in Cairo:
 
 - [omar mansour mohamed](https://github.com/omar100abdelaal)
 - [abdallah ibrahim arrafat](https://github.com/abdullah-ibrahim0)
+- [ibrahim mohamed gamil](https://github.com/ibrahimgamill)
 
 
 with the help of all the amazing and supportive TAs and the great professor Dr. Mervat Abu-ElKheir.
